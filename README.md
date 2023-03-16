@@ -4,5 +4,5 @@
 
 Web design/development and content management expert with 15+ years' experience making information available and actionable. Through my career, I've worked in health care, higher education, libraries/archives/museums and the nonprofit sector to deliver scalable web-based information management/CMS solutions. 
 
-I have extensive experience with Drupal, SharePoint, WordPress, Omeka, HTML, CSS, JavaScript, Python, and SQL, content creation and management.
+I have extensive experience with Drupal, SharePoint, WordPress, Omeka, HTML, CSS, JavaScript, Python, SQL, website analytics, content creation and management.
 
