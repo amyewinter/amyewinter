@@ -2,5 +2,7 @@
 
 <a href="https://www.linkedin.com/in/amyewinter/">![linkedin](https://img.shields.io/badge/Linkedin-ffffff?style=for-the-badge&logo=LinkedIn&logoColor=blue)</a>
 
-Experienced web developer and content creator/manager with an eclectic background and a diverse skillset. I'm committed to creating and supporting great web design and high-value content. Plenty of experience with content management systems, including WordPress, Drupal, Cascade, and Omeka. Programming skills include PHP, HTML/CSS/JavaScript, and Python; experienced in data migration and repository management. I also love using my writing and communication skills to convey advanced concepts accessibly!
+Web design/development and content management expert with 15+ years' experience making information available and actionable. Through my career, I've worked in health care, higher education, libraries/archives/museums and the nonprofit sector to deliver scalable web-based information management/CMS solutions. 
+
+I have extensive experience with Drupal, SharePoint, WordPress, Omeka, HTML, CSS, JavaScript, Python, and SQL, content creation and management.
 
